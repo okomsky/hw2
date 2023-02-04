@@ -92,6 +92,7 @@ public class Main {
         System.out.println("Всего работников в компании " + totalEmployees + " человек");
         totalEmployees = totalEmployees + 94;
         System.out.println("Если в компании работает " + totalEmployees + " человек, то всего " + totalHours / totalEmployees + " часа работы может быть поделено между сотрудниками»");
+
     }
 
 }
